@@ -24,7 +24,7 @@ The software solution presented here resolves the issue of granting access to ve
 ### Prerequisites
 
 - Python 3.11
-- Required Python packages (list them if specific packages are necessary)
+- Not specific packages are requiered.
 
 ### Steps
 
@@ -32,13 +32,8 @@ The software solution presented here resolves the issue of granting access to ve
     ```bash
     git clone https://github.com/your-username/license-plate-recognition.git
     ```
-2. Install the required dependencies.
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Follow additional setup steps specific to your environment if any.
 
 ## Usage
 
-- In order to use the software, you have to run the file called [Usage](#usage).
+- In order to use the software, you have to run the file called [reconocerPlacas.py](#reconocerPlacas.py).
 - Not necessary configurations.
