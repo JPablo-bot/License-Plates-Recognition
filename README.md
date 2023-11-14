@@ -24,7 +24,7 @@ The software solution presented here resolves the issue of granting access to ve
 ### Prerequisites
 
 - Python 3.11
-- Not specific packages are requiered.
+- Specific packages are not requiered.
 
 ### Steps
 
@@ -36,4 +36,3 @@ The software solution presented here resolves the issue of granting access to ve
 ## Usage
 
 - In order to use the software, you have to run the file called [reconocerPlacas.py](#reconocerPlacas.py).
-- Not necessary configurations.
